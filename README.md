@@ -142,10 +142,3 @@ and those who did not.
   for other variables.
 - Outliers were retained because they may represent genuine
   observations.
-
-## 🚀 How to Run
-
-```bash
-git clone https://github.com/YOUR_USERNAME/students-performance-analysis.git
-cd students-performance-analysis
-pip install -r requirements.txt
